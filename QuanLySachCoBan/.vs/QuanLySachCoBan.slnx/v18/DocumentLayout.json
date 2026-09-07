@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\sangn\\Downloads\\c#\\QuanLySachCoBan\\",
+  "WorkspaceRootPath": "C:\\Users\\sangn\\Downloads\\c#\\NGUYENPHUCSANG_6551071075_BTLT2\\QuanLySachCoBan\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D269FAE8-8615-4F87-B7D9-F73DF97222BA}|QuanLySachCoBan\\QuanLySachCoBan.csproj|c:\\users\\sangn\\downloads\\c#\\quanlysachcoban\\quanlysachcoban\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D269FAE8-8615-4F87-B7D9-F73DF97222BA}|QuanLySachCoBan\\QuanLySachCoBan.csproj|solutionrelative:quanlysachcoban\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1C22CB67-8E1B-D7C8-6014-DCD30334A9A8}|QuanLySachCoBan\\QuanLySachCoBan.csproj|c:\\users\\sangn\\downloads\\c#\\nguyenphucsang_6551071075_btlt2\\quanlysachcoban\\quanlysachcoban\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C22CB67-8E1B-D7C8-6014-DCD30334A9A8}|QuanLySachCoBan\\QuanLySachCoBan.csproj|solutionrelative:quanlysachcoban\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\sangn\\Downloads\\c#\\QuanLySachCoBan\\QuanLySachCoBan\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\sangn\\Downloads\\c#\\NGUYENPHUCSANG_6551071075_BTLT2\\QuanLySachCoBan\\QuanLySachCoBan\\Program.cs",
               "RelativeDocumentMoniker": "QuanLySachCoBan\\Program.cs",
-              "ToolTip": "C:\\Users\\sangn\\Downloads\\c#\\QuanLySachCoBan\\QuanLySachCoBan\\Program.cs",
+              "ToolTip": "C:\\Users\\sangn\\Downloads\\c#\\NGUYENPHUCSANG_6551071075_BTLT2\\QuanLySachCoBan\\QuanLySachCoBan\\Program.cs",
               "RelativeToolTip": "QuanLySachCoBan\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-07T00:34:15.544Z",
               "EditorCaption": ""

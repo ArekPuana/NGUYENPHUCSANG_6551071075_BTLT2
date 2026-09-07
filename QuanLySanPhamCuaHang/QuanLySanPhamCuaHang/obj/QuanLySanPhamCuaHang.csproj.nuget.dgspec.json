@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sangn\\Downloads\\c#\\QuanLySanPhamCuaHang\\QuanLySanPhamCuaHang\\QuanLySanPhamCuaHang.csproj": {}
+    "C:\\Users\\sangn\\Downloads\\c#\\NGUYENPHUCSANG_6551071075_BTLT2\\QuanLySanPhamCuaHang\\QuanLySanPhamCuaHang\\QuanLySanPhamCuaHang.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sangn\\Downloads\\c#\\QuanLySanPhamCuaHang\\QuanLySanPhamCuaHang\\QuanLySanPhamCuaHang.csproj": {
+    "C:\\Users\\sangn\\Downloads\\c#\\NGUYENPHUCSANG_6551071075_BTLT2\\QuanLySanPhamCuaHang\\QuanLySanPhamCuaHang\\QuanLySanPhamCuaHang.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sangn\\Downloads\\c#\\QuanLySanPhamCuaHang\\QuanLySanPhamCuaHang\\QuanLySanPhamCuaHang.csproj",
+        "projectUniqueName": "C:\\Users\\sangn\\Downloads\\c#\\NGUYENPHUCSANG_6551071075_BTLT2\\QuanLySanPhamCuaHang\\QuanLySanPhamCuaHang\\QuanLySanPhamCuaHang.csproj",
         "projectName": "QuanLySanPhamCuaHang",
-        "projectPath": "C:\\Users\\sangn\\Downloads\\c#\\QuanLySanPhamCuaHang\\QuanLySanPhamCuaHang\\QuanLySanPhamCuaHang.csproj",
+        "projectPath": "C:\\Users\\sangn\\Downloads\\c#\\NGUYENPHUCSANG_6551071075_BTLT2\\QuanLySanPhamCuaHang\\QuanLySanPhamCuaHang\\QuanLySanPhamCuaHang.csproj",
         "packagesPath": "C:\\Users\\sangn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sangn\\Downloads\\c#\\QuanLySanPhamCuaHang\\QuanLySanPhamCuaHang\\obj\\",
+        "outputPath": "C:\\Users\\sangn\\Downloads\\c#\\NGUYENPHUCSANG_6551071075_BTLT2\\QuanLySanPhamCuaHang\\QuanLySanPhamCuaHang\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

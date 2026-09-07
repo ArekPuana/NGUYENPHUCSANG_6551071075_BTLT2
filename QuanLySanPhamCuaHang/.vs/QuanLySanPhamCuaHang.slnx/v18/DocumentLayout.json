@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\sangn\\Downloads\\c#\\QuanLySanPhamCuaHang\\",
+  "WorkspaceRootPath": "C:\\Users\\sangn\\Downloads\\c#\\NGUYENPHUCSANG_6551071075_BTLT2\\QuanLySanPhamCuaHang\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A4A7CBDB-8ED4-4A11-AF74-17D346CD02F3}|QuanLySanPhamCuaHang\\QuanLySanPhamCuaHang.csproj|c:\\users\\sangn\\downloads\\c#\\quanlysanphamcuahang\\quanlysanphamcuahang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4A7CBDB-8ED4-4A11-AF74-17D346CD02F3}|QuanLySanPhamCuaHang\\QuanLySanPhamCuaHang.csproj|solutionrelative:quanlysanphamcuahang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2337E948-DF80-03BD-32C5-E01E04FB26E4}|QuanLySanPhamCuaHang\\QuanLySanPhamCuaHang.csproj|c:\\users\\sangn\\downloads\\c#\\nguyenphucsang_6551071075_btlt2\\quanlysanphamcuahang\\quanlysanphamcuahang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2337E948-DF80-03BD-32C5-E01E04FB26E4}|QuanLySanPhamCuaHang\\QuanLySanPhamCuaHang.csproj|solutionrelative:quanlysanphamcuahang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\sangn\\Downloads\\c#\\QuanLySanPhamCuaHang\\QuanLySanPhamCuaHang\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\sangn\\Downloads\\c#\\NGUYENPHUCSANG_6551071075_BTLT2\\QuanLySanPhamCuaHang\\QuanLySanPhamCuaHang\\Program.cs",
               "RelativeDocumentMoniker": "QuanLySanPhamCuaHang\\Program.cs",
-              "ToolTip": "C:\\Users\\sangn\\Downloads\\c#\\QuanLySanPhamCuaHang\\QuanLySanPhamCuaHang\\Program.cs",
+              "ToolTip": "C:\\Users\\sangn\\Downloads\\c#\\NGUYENPHUCSANG_6551071075_BTLT2\\QuanLySanPhamCuaHang\\QuanLySanPhamCuaHang\\Program.cs",
               "RelativeToolTip": "QuanLySanPhamCuaHang\\Program.cs",
               "ViewState": "AgIAAPEAAAAAAAAAAADwv/kAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sangn\\Downloads\\c#\\QuanLySachCoBan\\QuanLySachCoBan\\QuanLySachCoBan.csproj",
+      "projectUniqueName": "C:\\Users\\sangn\\Downloads\\c#\\NGUYENPHUCSANG_6551071075_BTLT2\\QuanLySachCoBan\\QuanLySachCoBan\\QuanLySachCoBan.csproj",
       "projectName": "QuanLySachCoBan",
-      "projectPath": "C:\\Users\\sangn\\Downloads\\c#\\QuanLySachCoBan\\QuanLySachCoBan\\QuanLySachCoBan.csproj",
+      "projectPath": "C:\\Users\\sangn\\Downloads\\c#\\NGUYENPHUCSANG_6551071075_BTLT2\\QuanLySachCoBan\\QuanLySachCoBan\\QuanLySachCoBan.csproj",
       "packagesPath": "C:\\Users\\sangn\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sangn\\Downloads\\c#\\QuanLySachCoBan\\QuanLySachCoBan\\obj\\",
+      "outputPath": "C:\\Users\\sangn\\Downloads\\c#\\NGUYENPHUCSANG_6551071075_BTLT2\\QuanLySachCoBan\\QuanLySachCoBan\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
